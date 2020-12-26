@@ -27,3 +27,7 @@ Data Science for Movies
 
 7. Predicting Movie Success Based on IMDB Data
 > https://www.researchgate.net/publication/282133920_Predicting_Movie_Success_Based_on_IMDB_Data
+
+8. Data Science Blog Post — TMDb movie
+> https://medium.com/@ikhloud00_51119/project-data-science-blog-post-tmdb-movie-33e9ed961d1f \
+> code: https://github.com/ikhloud/Data-Science-Blog-Post---TMDb-movie-data
