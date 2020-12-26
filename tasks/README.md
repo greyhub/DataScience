@@ -1,6 +1,7 @@
 # TASKs
 Data Science for Movies
 
+## Analysis
 1. Exploratory Data Analysis With Movies
 > https://towardsdatascience.com/exploratory-data-analysis-with-movies-3f32a4c3f2f3 \
 > code: https://github.com/jeremy-lee93/dsc-mod-1-project-v2-1-onl01-dtsc-pt-052620 \
@@ -31,3 +32,5 @@ Data Science for Movies
 8. Data Science Blog Post — TMDb movie
 > https://medium.com/@ikhloud00_51119/project-data-science-blog-post-tmdb-movie-33e9ed961d1f \
 > code: https://github.com/ikhloud/Data-Science-Blog-Post---TMDb-movie-data
+
+## Predict
