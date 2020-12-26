@@ -47,6 +47,9 @@ Data Science for Movies
 12. Movie-Data-Analytics
 > code: https://github.com/robjweiss/Movie-Data-Analytics
 
+13. Movie Data Analysis using TMDb dataset
+> https://www.kaggle.com/lorenzhering/movie-data-analysis
+
 ## Handle missing value
 1. How to Handle Missing Data in Machine Learning: 5 Techniques
 > https://dev.acquia.com/blog/how-to-handle-missing-data-in-machine-learning-5-techniques/09/07/2018/19651
