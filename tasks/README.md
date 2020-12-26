@@ -33,6 +33,20 @@ Data Science for Movies
 > https://medium.com/@ikhloud00_51119/project-data-science-blog-post-tmdb-movie-33e9ed961d1f \
 > code: https://github.com/ikhloud/Data-Science-Blog-Post---TMDb-movie-data
 
+9. Data Analysis Example: Analyzing Movie Ratings with Python
+> https://codingnomads.co/blog/data-analysis-example-analyzing-movie-ratings-with-python/ \
+> code: https://github.com/CodingNomads/movie-analysis-python-pandas
+
+10. Using data science to understand the film industry’s gender gap
+> https://www.nature.com/articles/s41599-020-0436-1 \
+> code: https://github.com/data4goodlab/subs2network
+
+11. Exploratory Analysis with Movie-Ratings and Fraud Detection with Credit-Card Transactions
+> https://sandipanweb.wordpress.com/2017/12/16/data-science-with-python-exploratory-analysis-with-movie-ratings-and-fraud-detection-with-credit-card-transactions/
+
+12. Movie-Data-Analytics
+> code: https://github.com/robjweiss/Movie-Data-Analytics
+
 ## Handle missing value
 1. How to Handle Missing Data in Machine Learning: 5 Techniques
 > https://dev.acquia.com/blog/how-to-handle-missing-data-in-machine-learning-5-techniques/09/07/2018/19651
