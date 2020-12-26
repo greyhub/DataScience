@@ -33,4 +33,16 @@ Data Science for Movies
 > https://medium.com/@ikhloud00_51119/project-data-science-blog-post-tmdb-movie-33e9ed961d1f \
 > code: https://github.com/ikhloud/Data-Science-Blog-Post---TMDb-movie-data
 
+## Handle missing value
+1. How to Handle Missing Data in Machine Learning: 5 Techniques
+> https://dev.acquia.com/blog/how-to-handle-missing-data-in-machine-learning-5-techniques/09/07/2018/19651
+
 ## Predict
+1. 
+
+## RecSys
+1. Word2vec RecSys
+> https://viblo.asia/p/machine-learning-ung-dung-mo-hinh-word2vec-cho-bai-toan-session-based-recommender-system-Qbq5Q4YJlD8#_ap-dung-cho-bai-toan-recommender-system-4 
+
+2. Youtube RecSys:
+> https://www.slideshare.net/frederickayala/sessionbased-recommender-systems-75268222
