@@ -50,9 +50,12 @@ Data Science for Movies
 13. Movie Data Analysis using TMDb dataset
 > https://www.kaggle.com/lorenzhering/movie-data-analysis
 
-## Handle missing value
+## Pre-processing
 1. How to Handle Missing Data in Machine Learning: 5 Techniques
 > https://dev.acquia.com/blog/how-to-handle-missing-data-in-machine-learning-5-techniques/09/07/2018/19651
+
+2. How to Calculate Feature Importance With Python
+> https://machinelearningmastery.com/calculate-feature-importance-with-python/
 
 ## Predict
 1. 
